@@ -25,7 +25,7 @@
             "styles": [
               "src/styles.css",
               "src/abcd/css/global.css",
-               "src/abcd/css/slidercss.css",
+               "src/abcd/css/slider.css",
                 "src/abcd/css/style.css"
             ],
             "scripts": []

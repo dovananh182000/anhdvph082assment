@@ -14,8 +14,6 @@ import{ HeadertopDescComponent } from "./headertop-desc/headertop-desc.component
 
 
 
-// import { FooterComponent } from './footer/footer.component';
-
 
 @NgModule({
   imports: [BrowserModule, FormsModule,HttpClientModule],
